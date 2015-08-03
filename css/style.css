@@ -1,0 +1,45 @@
+body {
+   margin: 20px;
+   background: url(../img/background.jpg) no-repeat center center fixed;
+   background-size: cover;
+}
+
+h1 {
+   font-size: 3em;
+   text-align: center;
+   font-family: 'Droid Serif', serif;
+   color: #0095b6;
+   background-color: #fff;
+}
+h2 {
+   font-size: 2em;
+   text-align: left;
+   margin-left: 100px;
+   font-family: 'Open Sans', sans-serif;
+   color: #fff;
+}
+h3 {
+   font-size: 2em;
+   text-align: center;
+   font-family: 'Open Sans', sans-serif;
+   color: #fff;
+}
+p {
+   font-size: 1em;
+   text-align: left;
+   margin-left: 150px;
+   margin-right: 150px;
+   font-family: 'Open Sans', sans-serif;
+   font-weight: 300;
+   color: 000000;
+}
+
+
+#nav {
+   ont-size: 1em;
+   text-align: center;
+   font-family: 'Open Sans', sans-serif;
+   font-weight: 300;
+   color: #000000;
+   text-decoration: none;
+}
